@@ -1,0 +1,223 @@
+Location	Bucket	Type	Visitor Count	Percentage
+User Drawn Polygon	Total visitors with CEL	CEL Distance	151764	
+User Drawn Polygon	Median distance traveled from CEL	CEL Distance	8.738491925261707	
+User Drawn Polygon	Lives within 1 mile of location	CEL Distance	4296	2.83%
+User Drawn Polygon	Lives between 1 and 2 miles	CEL Distance	7539	4.97%
+User Drawn Polygon	Lives between 2 and 3 miles	CEL Distance	8680	5.72%
+User Drawn Polygon	Lives between 3 and 5 miles	CEL Distance	20166	13.29%
+User Drawn Polygon	Lives between 5 and 10 miles	CEL Distance	42939	28.29%
+User Drawn Polygon	Lives between 10 and 25 miles	CEL Distance	37090	24.44%
+User Drawn Polygon	Lives between 25 and 50 miles	CEL Distance	4697	3.09%
+User Drawn Polygon	Lives between 50 and 100 miles	CEL Distance	2252	1.48%
+User Drawn Polygon	Lives >100 miles away	CEL Distance	24105	15.88%
+User Drawn Polygon	Total visitors with CDL	CDL Distance	129472	
+User Drawn Polygon	Median distance traveled from CDL	CDL Distance	8.60311802903665	
+User Drawn Polygon	Works within 1 mile of location	CDL Distance	4598	3.55%
+User Drawn Polygon	Works between 1 and 2 miles	CDL Distance	5041	3.89%
+User Drawn Polygon	Works between 2 and 3 miles	CDL Distance	6311	4.87%
+User Drawn Polygon	Works between 3 and 5 miles	CDL Distance	16598	12.82%
+User Drawn Polygon	Works between 5 and 10 miles	CDL Distance	40610	31.37%
+User Drawn Polygon	Works between 10 and 25 miles	CDL Distance	29583	22.85%
+User Drawn Polygon	Works between 25 and 50 miles	CDL Distance	3823	2.95%
+User Drawn Polygon	Works between 50 and 100 miles	CDL Distance	1874	1.45%
+User Drawn Polygon	Works >100 miles away	CDL Distance	21034	16.25%
+User Drawn Polygon	96815	Top CEL Zip Code	78	0.05%
+User Drawn Polygon	90045	Top CEL Zip Code	50	0.03%
+User Drawn Polygon	89109	Top CEL Zip Code	38	0.03%
+User Drawn Polygon	10036	Top CEL Zip Code	28	0.02%
+User Drawn Polygon	10019	Top CEL Zip Code	26	0.02%
+User Drawn Polygon	10018	Top CEL Zip Code	17	0.01%
+User Drawn Polygon	92626	Top CEL Zip Code	14	0.01%
+User Drawn Polygon	10013	Top CEL Zip Code	13	0.01%
+User Drawn Polygon	90046	Top CEL Zip Code	13	0.01%
+User Drawn Polygon	90069	Top CEL Zip Code	12	0.01%
+User Drawn Polygon	89119	Top CEL Zip Code	11	0.01%
+User Drawn Polygon	10003	Top CEL Zip Code	10	0.01%
+User Drawn Polygon	10012	Top CEL Zip Code	10	0.01%
+User Drawn Polygon	10016	Top CEL Zip Code	10	0.01%
+User Drawn Polygon	11211	Top CEL Zip Code	10	0.01%
+User Drawn Polygon	94109	Top CEL Zip Code	10	0.01%
+User Drawn Polygon	10001	Top CEL Zip Code	9	0.01%
+User Drawn Polygon	10002	Top CEL Zip Code	9	0.01%
+User Drawn Polygon	90028	Top CEL Zip Code	9	0.01%
+User Drawn Polygon	10011	Top CEL Zip Code	8	0.01%
+User Drawn Polygon	96815	Top CDL Zip Code	64	0.05%
+User Drawn Polygon	89109	Top CDL Zip Code	29	0.02%
+User Drawn Polygon	10019	Top CDL Zip Code	22	0.02%
+User Drawn Polygon	90045	Top CDL Zip Code	20	0.02%
+User Drawn Polygon	10036	Top CDL Zip Code	17	0.01%
+User Drawn Polygon	94102	Top CDL Zip Code	15	0.01%
+User Drawn Polygon	10012	Top CDL Zip Code	14	0.01%
+User Drawn Polygon	90046	Top CDL Zip Code	12	0.01%
+User Drawn Polygon	10013	Top CDL Zip Code	11	0.01%
+User Drawn Polygon	10017	Top CDL Zip Code	11	0.01%
+User Drawn Polygon	89119	Top CDL Zip Code	11	0.01%
+User Drawn Polygon	10001	Top CDL Zip Code	10	0.01%
+User Drawn Polygon	33139	Top CDL Zip Code	10	0.01%
+User Drawn Polygon	10018	Top CDL Zip Code	9	0.01%
+User Drawn Polygon	90028	Top CDL Zip Code	9	0.01%
+User Drawn Polygon	10002	Top CDL Zip Code	8	0.01%
+User Drawn Polygon	90036	Top CDL Zip Code	8	0.01%
+User Drawn Polygon	92802	Top CDL Zip Code	8	0.01%
+User Drawn Polygon	94128	Top CDL Zip Code	8	0.01%
+User Drawn Polygon	10011	Top CDL Zip Code	7	0.01%
+User Drawn Polygon	20804119524	Top CEL Census Block Group	1030	0.68%
+User Drawn Polygon	21203130107	Top CEL Census Block Group	920	0.61%
+User Drawn Polygon	21204131402	Top CEL Census Block Group	577	0.38%
+User Drawn Polygon	20606113717	Top CEL Census Block Group	407	0.27%
+User Drawn Polygon	21203130213	Top CEL Census Block Group	334	0.22%
+User Drawn Polygon	21203130411	Top CEL Census Block Group	311	0.20%
+User Drawn Polygon	20604112227	Top CEL Census Block Group	306	0.20%
+User Drawn Polygon	21201128704	Top CEL Census Block Group	262	0.17%
+User Drawn Polygon	21205132002	Top CEL Census Block Group	259	0.17%
+User Drawn Polygon	21203130604	Top CEL Census Block Group	258	0.17%
+User Drawn Polygon	20604112219	Top CEL Census Block Group	243	0.16%
+User Drawn Polygon	21205132524	Top CEL Census Block Group	240	0.16%
+User Drawn Polygon	21005124449	Top CEL Census Block Group	235	0.15%
+User Drawn Polygon	21005124801	Top CEL Census Block Group	215	0.14%
+User Drawn Polygon	21305136411	Top CEL Census Block Group	209	0.14%
+User Drawn Polygon	20607113904	Top CEL Census Block Group	199	0.13%
+User Drawn Polygon	21204131114	Top CEL Census Block Group	194	0.13%
+User Drawn Polygon	20604112212	Top CEL Census Block Group	180	0.12%
+User Drawn Polygon	21205131921	Top CEL Census Block Group	177	0.12%
+User Drawn Polygon	20703116317	Top CEL Census Block Group	175	0.12%
+User Drawn Polygon	20804119524	Top CDL Census Block Group	2287	1.77%
+User Drawn Polygon	21205132002	Top CDL Census Block Group	618	0.48%
+User Drawn Polygon	21203130107	Top CDL Census Block Group	607	0.47%
+User Drawn Polygon	21204131114	Top CDL Census Block Group	548	0.42%
+User Drawn Polygon	20604112218	Top CDL Census Block Group	508	0.39%
+User Drawn Polygon	20604112212	Top CDL Census Block Group	441	0.34%
+User Drawn Polygon	20604112224	Top CDL Census Block Group	402	0.31%
+User Drawn Polygon	20604111813	Top CDL Census Block Group	392	0.30%
+User Drawn Polygon	20604111803	Top CDL Census Block Group	385	0.30%
+User Drawn Polygon	21204131402	Top CDL Census Block Group	384	0.30%
+User Drawn Polygon	20606113717	Top CDL Census Block Group	382	0.30%
+User Drawn Polygon	20604112214	Top CDL Census Block Group	364	0.28%
+User Drawn Polygon	20604112216	Top CDL Census Block Group	315	0.24%
+User Drawn Polygon	20604112201	Top CDL Census Block Group	311	0.24%
+User Drawn Polygon	20605113205	Top CDL Census Block Group	295	0.23%
+User Drawn Polygon	21005124801	Top CDL Census Block Group	295	0.23%
+User Drawn Polygon	20604112227	Top CDL Census Block Group	253	0.20%
+User Drawn Polygon	21205132521	Top CDL Census Block Group	253	0.20%
+User Drawn Polygon	20703116317	Top CDL Census Block Group	252	0.19%
+User Drawn Polygon	21205132410	Top CDL Census Block Group	244	0.19%
+User Drawn Polygon	New York, NY	Top CEL Metro	325	0.21%
+User Drawn Polygon	Los Angeles, CA	Top CEL Metro	285	0.19%
+User Drawn Polygon	San Francisco-Oakland-San Jose, CA	Top CEL Metro	130	0.09%
+User Drawn Polygon	Honolulu, HI	Top CEL Metro	120	0.08%
+User Drawn Polygon	Las Vegas, NV	Top CEL Metro	63	0.04%
+User Drawn Polygon	Washington, DC (Hagerstown, MD)	Top CEL Metro	51	0.03%
+User Drawn Polygon	San Diego, CA	Top CEL Metro	34	0.02%
+User Drawn Polygon	Miami-Fort Lauderdale, FL	Top CEL Metro	28	0.02%
+User Drawn Polygon	Orlando-Daytona Beach-Melbourne, FL	Top CEL Metro	28	0.02%
+User Drawn Polygon	Boston, MA (Manchester, NH)	Top CEL Metro	27	0.02%
+User Drawn Polygon	Chicago, IL	Top CEL Metro	27	0.02%
+User Drawn Polygon	Denver, CO	Top CEL Metro	25	0.02%
+User Drawn Polygon	Seattle-Tacoma, WA 	Top CEL Metro	25	0.02%
+User Drawn Polygon	Dallas-Ft. Worth, TX	Top CEL Metro	24	0.02%
+User Drawn Polygon	Houston, TX	Top CEL Metro	23	0.02%
+User Drawn Polygon	Atlanta, GA	Top CEL Metro	17	0.01%
+User Drawn Polygon	New Orleans, LA	Top CEL Metro	17	0.01%
+User Drawn Polygon	Austin, TX	Top CEL Metro	14	0.01%
+User Drawn Polygon	Minneapolis-St. Paul, MN	Top CEL Metro	14	0.01%
+User Drawn Polygon	Detroit, MI	Top CEL Metro	13	0.01%
+User Drawn Polygon	New York, NY	Top CDL Metro	272	0.21%
+User Drawn Polygon	Los Angeles, CA	Top CDL Metro	225	0.17%
+User Drawn Polygon	San Francisco-Oakland-San Jose, CA	Top CDL Metro	117	0.09%
+User Drawn Polygon	Honolulu, HI	Top CDL Metro	101	0.08%
+User Drawn Polygon	Las Vegas, NV	Top CDL Metro	56	0.04%
+User Drawn Polygon	Washington, DC (Hagerstown, MD)	Top CDL Metro	38	0.03%
+User Drawn Polygon	Chicago, IL	Top CDL Metro	33	0.03%
+User Drawn Polygon	Boston, MA (Manchester, NH)	Top CDL Metro	26	0.02%
+User Drawn Polygon	San Diego, CA	Top CDL Metro	26	0.02%
+User Drawn Polygon	Miami-Fort Lauderdale, FL	Top CDL Metro	25	0.02%
+User Drawn Polygon	Orlando-Daytona Beach-Melbourne, FL	Top CDL Metro	22	0.02%
+User Drawn Polygon	Dallas-Ft. Worth, TX	Top CDL Metro	19	0.01%
+User Drawn Polygon	Denver, CO	Top CDL Metro	19	0.01%
+User Drawn Polygon	Houston, TX	Top CDL Metro	18	0.01%
+User Drawn Polygon	Seattle-Tacoma, WA 	Top CDL Metro	17	0.01%
+User Drawn Polygon	Atlanta, GA	Top CDL Metro	15	0.01%
+User Drawn Polygon	Minneapolis-St. Paul, MN	Top CDL Metro	14	0.01%
+User Drawn Polygon	Detroit, MI	Top CDL Metro	12	0.01%
+User Drawn Polygon	Portland, OR	Top CDL Metro	12	0.01%
+User Drawn Polygon	Austin, TX	Top CDL Metro	11	0.01%
+User Drawn Polygon	CA	Top CEL State	492	0.32%
+User Drawn Polygon	NY	Top CEL State	307	0.20%
+User Drawn Polygon	HI	Top CEL State	118	0.08%
+User Drawn Polygon	FL	Top CEL State	77	0.05%
+User Drawn Polygon	TX	Top CEL State	67	0.04%
+User Drawn Polygon	NV	Top CEL State	65	0.04%
+User Drawn Polygon	IL	Top CEL State	28	0.02%
+User Drawn Polygon	WA	Top CEL State	28	0.02%
+User Drawn Polygon	CO	Top CEL State	26	0.02%
+User Drawn Polygon	NJ	Top CEL State	26	0.02%
+User Drawn Polygon	MA	Top CEL State	25	0.02%
+User Drawn Polygon	VA	Top CEL State	24	0.02%
+User Drawn Polygon	DC	Top CEL State	23	0.02%
+User Drawn Polygon	NC	Top CEL State	20	0.01%
+User Drawn Polygon	GA	Top CEL State	18	0.01%
+User Drawn Polygon	LA	Top CEL State	18	0.01%
+User Drawn Polygon	MI	Top CEL State	17	0.01%
+User Drawn Polygon	MD	Top CEL State	16	0.01%
+User Drawn Polygon	AZ	Top CEL State	15	0.01%
+User Drawn Polygon	MN	Top CEL State	15	0.01%
+User Drawn Polygon	CA	Top CDL State	396	0.31%
+User Drawn Polygon	NY	Top CDL State	261	0.20%
+User Drawn Polygon	HI	Top CDL State	98	0.08%
+User Drawn Polygon	FL	Top CDL State	63	0.05%
+User Drawn Polygon	NV	Top CDL State	56	0.04%
+User Drawn Polygon	TX	Top CDL State	51	0.04%
+User Drawn Polygon	IL	Top CDL State	34	0.03%
+User Drawn Polygon	MA	Top CDL State	22	0.02%
+User Drawn Polygon	CO	Top CDL State	21	0.02%
+User Drawn Polygon	NC	Top CDL State	21	0.02%
+User Drawn Polygon	NJ	Top CDL State	21	0.02%
+User Drawn Polygon	MD	Top CDL State	18	0.01%
+User Drawn Polygon	WA	Top CDL State	18	0.01%
+User Drawn Polygon	OH	Top CDL State	17	0.01%
+User Drawn Polygon	MI	Top CDL State	16	0.01%
+User Drawn Polygon	MN	Top CDL State	16	0.01%
+User Drawn Polygon	DC	Top CDL State	15	0.01%
+User Drawn Polygon	GA	Top CDL State	15	0.01%
+User Drawn Polygon	OR	Top CDL State	15	0.01%
+User Drawn Polygon	TN	Top CDL State	15	0.01%
+User Drawn Polygon	AUS	Top CEL Country	139887	92.17%
+User Drawn Polygon	USA	Top CEL Country	1566	1.03%
+User Drawn Polygon	MYS	Top CEL Country	1144	0.75%
+User Drawn Polygon	SGP	Top CEL Country	944	0.62%
+User Drawn Polygon	NZL	Top CEL Country	673	0.44%
+User Drawn Polygon	CHN	Top CEL Country	669	0.44%
+User Drawn Polygon	IDN	Top CEL Country	663	0.44%
+User Drawn Polygon	THA	Top CEL Country	503	0.33%
+User Drawn Polygon	IND	Top CEL Country	497	0.33%
+User Drawn Polygon	TWN	Top CEL Country	453	0.30%
+User Drawn Polygon	GBR	Top CEL Country	451	0.30%
+User Drawn Polygon	HKG	Top CEL Country	441	0.29%
+User Drawn Polygon	JPN	Top CEL Country	429	0.28%
+User Drawn Polygon	VNM	Top CEL Country	317	0.21%
+User Drawn Polygon	PHL	Top CEL Country	298	0.20%
+User Drawn Polygon	CAN	Top CEL Country	232	0.15%
+User Drawn Polygon	SAU	Top CEL Country	171	0.11%
+User Drawn Polygon	ARE	Top CEL Country	167	0.11%
+User Drawn Polygon	KOR	Top CEL Country	153	0.10%
+User Drawn Polygon	KHM	Top CEL Country	137	0.09%
+User Drawn Polygon	AUS	Top CDL Country	119008	91.92%
+User Drawn Polygon	USA	Top CDL Country	1309	1.01%
+User Drawn Polygon	MYS	Top CDL Country	1055	0.81%
+User Drawn Polygon	SGP	Top CDL Country	800	0.62%
+User Drawn Polygon	CHN	Top CDL Country	646	0.50%
+User Drawn Polygon	IDN	Top CDL Country	603	0.47%
+User Drawn Polygon	NZL	Top CDL Country	581	0.45%
+User Drawn Polygon	THA	Top CDL Country	487	0.38%
+User Drawn Polygon	IND	Top CDL Country	424	0.33%
+User Drawn Polygon	GBR	Top CDL Country	386	0.30%
+User Drawn Polygon	HKG	Top CDL Country	377	0.29%
+User Drawn Polygon	JPN	Top CDL Country	377	0.29%
+User Drawn Polygon	TWN	Top CDL Country	377	0.29%
+User Drawn Polygon	VNM	Top CDL Country	285	0.22%
+User Drawn Polygon	PHL	Top CDL Country	260	0.20%
+User Drawn Polygon	CAN	Top CDL Country	192	0.15%
+User Drawn Polygon	ARE	Top CDL Country	138	0.11%
+User Drawn Polygon	KHM	Top CDL Country	129	0.10%
+User Drawn Polygon	SAU	Top CDL Country	129	0.10%
+User Drawn Polygon	KOR	Top CDL Country	127	0.10%
